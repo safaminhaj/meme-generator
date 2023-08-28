@@ -1,0 +1,23 @@
+header {
+    background-image: linear-gradient(to right, #672280 1.18%, #A626D3 100%);
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 15px;
+    height: 65px;
+}
+
+.header-img {
+    height: 100%;
+    margin-right: 0.8rem;
+}
+
+.header-heading {
+    font-size: 1.75rem;
+    margin-right: auto;
+}
+
+.header-p {
+    font-size: 1rem;
+    font-weight: 500;
+}
